@@ -74,4 +74,5 @@ pn.Column(viz).servable()
 📈 Output Example
 Prices will dynamically range between ₹10–₹15/day depending on occupancy and context.
 
-Report : 
+Report : [report of summer analytics program.docx](https://github.com/user-attachments/files/21104374/report.of.summer.analytics.program.docx)
+
